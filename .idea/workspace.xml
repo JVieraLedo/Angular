@@ -459,16 +459,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/weinre/web/images/weinre-icon-128x128.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/weinre/web/images/weinre-icon-32x32.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/weinre/web/images/weinre-icon-64x64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/A-64.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/aquaman.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/batman.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/daredevil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/hulk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/linterna-verde.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/spiderman.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/wolverine.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/.bin/acorn" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/.bin/browser-sync" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/.bin/buble" />
@@ -14620,51 +14612,9 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/zone.js/lib/zone-spec/wtf.ts" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/zone.js/lib/zone.ts" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/node_modules/zone.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/app.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/app.component.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/app.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/app.module.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/body/body.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/body/body.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/body/body.component.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/body/body.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/footer/footer.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/footer/footer.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/footer/footer.component.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/footer/footer.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/header/header.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/header/header.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/header/header.component.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/app/components/header/header.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_1/src/main.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/e2e/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/recursos/data.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/tslint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/app/components/shared/navbar/navbar.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Angular_2/src/app/components/shared/navbar/navbar.component.ts" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/CHANGELOG.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/Gruntfile.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/bootstrap/LICENSE" afterPath="" />
@@ -15016,13 +14966,9 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/tether/src/js/utils.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_1" afterPath="$PROJECT_DIR$/Angular_1" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_1/.editorconfig" afterPath="$PROJECT_DIR$/Angular_1/.editorconfig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_1/package.json" afterPath="$PROJECT_DIR$/Angular_1/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_1/src/app/app.component.ts" afterPath="$PROJECT_DIR$/Angular_1/src/app/app.component.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_1/src/app/app.module.ts" afterPath="$PROJECT_DIR$/Angular_1/src/app/app.module.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_1/src/index.html" afterPath="$PROJECT_DIR$/Angular_1/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_1/src/styles.css" afterPath="$PROJECT_DIR$/Angular_1/src/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_1/src/tsconfig.json" afterPath="$PROJECT_DIR$/Angular_1/src/tsconfig.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_2/angular-cli.json" afterPath="$PROJECT_DIR$/Angular_2/angular-cli.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_2/package.json" afterPath="$PROJECT_DIR$/Angular_2/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Angular_2/src/app/app.module.ts" afterPath="$PROJECT_DIR$/Angular_2/src/app/app.module.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15036,7 +14982,38 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular_2/src/app/components/home/home.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Angular_2/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-29">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="angular-cli.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Angular_2/angular-cli.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -15059,6 +15036,10 @@
         <option value="$PROJECT_DIR$/Angular_1/src/app/app.component.html" />
         <option value="$PROJECT_DIR$/Angular_1/src/app/components/body/body.component.ts" />
         <option value="$PROJECT_DIR$/Angular_1/src/app/components/body/body.component.html" />
+        <option value="$PROJECT_DIR$/Angular_2/src/app/components/shared/navbar/navbar.component.ts" />
+        <option value="$PROJECT_DIR$/Angular_2/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/Angular_2/src/app/components/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/Angular_2/angular-cli.json" />
       </list>
     </option>
   </component>
@@ -15105,20 +15086,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ANGULAR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ANGULAR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ANGULAR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Angular_2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -15241,22 +15208,41 @@
       <option name="presentableId" value="Default" />
       <updated>1493656158763</updated>
       <workItem from="1493656159868" duration="322000" />
-      <workItem from="1493721822949" duration="6947000" />
+      <workItem from="1493721822949" duration="8651000" />
     </task>
+    <task id="LOCAL-00001" summary="UPLOAD">
+      <created>1493833868112</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493833868112</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7269000" />
+    <option name="totallyTimeSpent" value="8973000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1436" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24946997" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951653" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32951653" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -15266,7 +15252,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -15434,6 +15419,56 @@
     <entry file="file://$PROJECT_DIR$/Angular_2/src/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_2/src/app/components/shared/navbar/navbar.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_2/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_2/tslint.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_2/src/app/components/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_2/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Angular_2/angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
