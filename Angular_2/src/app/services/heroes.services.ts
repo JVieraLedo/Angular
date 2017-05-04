@@ -74,4 +74,15 @@ export class HeroesService {
   getHero(i: string) {
     return this.heroes[i];
   }
+
+  searchHeroes(text: string) {
+    let heroesFind: Hero[] = [];
+    text = text.toLocaleLowerCase();
+    this.heroes.map(function (val) {
+      if (val.nombre.indexOf(text) >= 0){
+        heroesFind.push(val);
+      }
+    });
+    return heroesFind;
+  }
 }

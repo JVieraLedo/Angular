@@ -21,9 +21,9 @@
         <div class="card-block">
           <div class="row">
             <div class="col-6">
-              <h4 class="card-title">{{heroData.nombre}}</h4>
+              <h4 class="card-title">{{heroData.nombre | uppercase}}</h4>
               <p class="card-text">
-                <b class="text-muted">{{heroData.aparicion}} &copy; <em>{{heroData.casa}}</em></b>
+                <b class="text-muted">{{heroData.aparicion | date:'MM-y'}} &copy; <em>{{heroData.casa}}</em></b>
               </p>
             </div>
             <div class="col-6">
